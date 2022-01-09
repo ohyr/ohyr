@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohyr&count_bg=%2316FFD4&title_bg=%23B4B4B4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ohyr)
 
+![Yongrok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongrok&show_icons=true&theme=vue)
+
 <!--
 **ohyr/ohyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
