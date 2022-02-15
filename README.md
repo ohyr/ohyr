@@ -10,7 +10,8 @@
 
 ### 🌱 I'm currently learning ...
 
-JavaScript, Vue.js
+- JavaScript, Java
+- Vue3, Quasar, Spring
 
 ### 📊 My Github stats
 
