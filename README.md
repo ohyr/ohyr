@@ -1,4 +1,4 @@
-# 👋 OH YONG ROK
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=YongRok%20Oh&fontSize=80&fontAlign=60)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohyr&count_bg=%2316FFD4&title_bg=%23B4B4B4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ohyr)
 
@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
