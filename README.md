@@ -2,9 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohyr&count_bg=%2316FFD4&title_bg=%23B4B4B4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ohyr)
 
-![Yongrok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohyr&show_icons=true&theme=vue)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyr96)](https://solved.ac/ohyr96)
+<img src="https://github-readme-stats.vercel.app/api?username=ohyr&show_icons=true&theme=vue" width="50%" />
+<a href="https://solved.ac/ohyr96" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyr96" width="50%" /></ a>
 
 # 😎 Skills
 
@@ -17,9 +16,9 @@
 
 <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"> <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
 
-### 📊 My Github stats
+<!-- ### 📊 My Github stats
 
-[![Yongrok's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyr&layout=compact)](https://github.com/ohyr)
+[![Yongrok's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyr&layout=compact)](https://github.com/ohyr) -->
 
 <!--
 **ohyr/ohyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
